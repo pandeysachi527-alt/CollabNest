@@ -1,4 +1,4 @@
-#  CreatorConnect
+#  CollabNest
 
 ### Grow Together, Create Better.
 ## 📑 Table of Contents
